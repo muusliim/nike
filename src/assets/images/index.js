@@ -15,6 +15,7 @@ import shoe5 from './shoe5.svg'
 import shoe6 from './shoe6.svg'
 import shoe7 from './shoe7.svg'
 import shoe8 from './shoe8.svg'
+import offernew from './offernew.jpg'
 
 import thumbnailBackground from './thumbnail-background.svg'
 import thumbnailShoe1 from './thumbnail-shoe1.svg'
@@ -33,6 +34,7 @@ export {
     headerLogo,
 
     offer,
+    offernew,
     shoe4,
     shoe5,
     shoe6,
